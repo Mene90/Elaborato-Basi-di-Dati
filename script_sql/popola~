@@ -1,0 +1,3 @@
+\i ./Elaborato_lab/script_sql/create_tables.sql;
+\i ./Elaborato_lab/script_sql/popola.sql;
+\i ./Elaborato_lab/script_sql/popola_ricoveri.sql;
